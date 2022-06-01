@@ -2,7 +2,7 @@
 <h1> Hello there, fellow developers <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
-You have finally discovered my Github profile, Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a> or <a href="mailto:yasir.romaya@gmail.com"><b>email</b></a> me
+You have finally discovered my Github profile, Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, You can <a href="mailto:yasir.romaya@gmail.com"><b>email</b></a> me
 
 <br>
 
@@ -45,5 +45,5 @@ class YasirRomaya {
 </p>
 <br>
 
-[![Yasir Romaya' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasirdx777&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Yasir Romaya' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasirdx777&custom_title=Yasir%20Romaya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://yasirromaya.me)
 
