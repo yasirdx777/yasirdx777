@@ -2,7 +2,7 @@
 <h1> Hello there, fellow developers <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 </div>
 
-You have finally discovered my Github profile, Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, You can <a href="mailto:yasir.romaya@gmail.com"><b>email</b></a> me
+You have finally discovered my Github profile, Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better, You can <a href="mailto:yasir.romaya@gmail.com"><b>email</b></a> me also.
 
 <br>
 
