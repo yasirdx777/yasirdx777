@@ -44,8 +44,9 @@ class YasirRomaya {
   </a>
 </p>
 <br>
+
 <!-- 
 [![Yasir Romaya' Activity Graph](https://activity-graph.herokuapp.com/graph?username=yasirdx777&custom_title=Yasir%20Romaya's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://yasirromaya.me) -->
 
-[![Yasir Romaya' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasirdx777custom_title=Yasir%20Romaya&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://yasirromaya.me)
+[![Yasir Romaya' Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yasirdx777)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
