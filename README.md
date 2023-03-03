@@ -10,8 +10,6 @@ You have finally discovered my Github profile, Please feel free to clone/fork pr
 <div align="center">
   <img src="https://img.shields.io/badge/-SWIFT-c58545?style=for-the-badge&logo=swift&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-DART-d1a01f?style=for-the-badge&logo=dart&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Kotlin-98b982?style=for-the-badge&logo=kotlin&logoColor=98b982&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Java-98b982?style=for-the-badge&logo=java&logoColor=98b982&labelColor=282828">
 </div>
 </p>
 
