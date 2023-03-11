@@ -19,7 +19,6 @@ class YasirRomaya {
     
     var name      = String()
     var username  = String()
-    var location  = String()
     var twitter   = String()
     var web       = String()
     
