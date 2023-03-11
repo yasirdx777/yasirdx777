@@ -26,7 +26,6 @@ class YasirRomaya {
     private init() {
         self.name     = "Yasir Romaya";
         self.username = "yasirdx777";
-        self.location = "Iraq, Suli";
         self.twitter  = "@YasirRomaya";
         self.web      = "https://yasirromaya.me";
     }
