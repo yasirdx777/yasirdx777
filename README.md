@@ -19,13 +19,11 @@ class YasirRomaya {
     
     var name      = String()
     var username  = String()
-    var twitter   = String()
     var web       = String()
     
     private init() {
         self.name     = "Yasir Romaya";
         self.username = "yasirdx777";
-        self.twitter  = "@YasirRomaya";
         self.web      = "https://yasirromaya.me";
     }
     
